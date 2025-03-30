@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743330307 source:e:\code\chay code\gamev2\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_timer.h>
+	<SDL_ttf.h>
+	<fstream>
+
